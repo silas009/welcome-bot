@@ -43,7 +43,7 @@ bot.on('new_chat_members', async (ctx) => {
       `1️⃣ Avoid sharing personal info\n` +
       `2️⃣ No spamming or self-promotion\n` +
       `3️⃣ No offensive language\n` +
-      `4️⃣ Engage with the right topic\n` +
+      `4️⃣ ALWAYS ENGAGE WITH THE RIGHT TOPIC\n` +
       `5️⃣ NO private chat — share everything here\n\n` +
       `Enjoy the group! 🎉`,
       {
