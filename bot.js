@@ -89,6 +89,5 @@ bot.on('message', async (ctx) => {
   }
 })
 
-console.log('Token is:', process.env.BOT_TOKEN)
 bot.launch()
 console.log('Bot is running...')
